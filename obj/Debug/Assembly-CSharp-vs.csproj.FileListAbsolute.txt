@@ -1,0 +1,12 @@
+C:\Users\Chi\Documents\jumphigh\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Chi\Documents\jumphigh\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Chi\Documents\jumphigh\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Chi\Documents\jumphigh\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Chi\Documents\jumphigh\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Chi\Documents\jumphigh\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Chi\Documents\jumphigh\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Chi\Documents\jumphigh\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Chi\Documents\jumphigh\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Chi\Documents\jumphigh\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Chi\Documents\jumphigh\obj\Debug\Assembly-CSharp.dll
+C:\Users\Chi\Documents\jumphigh\obj\Debug\Assembly-CSharp.pdb

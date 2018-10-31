@@ -1,0 +1,13 @@
+lastUpgrade=00926
+proj.AppId=715731399212
+web.ClientId=
+android.SetupDone=true
+App.NearbdServiceId=droidboy.lolyworld.loly
+android.NearbySetupDone=true
+proj.ConstantsClassName=droidboy.lolyworld.lolyw
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e715731399212%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3edroidboy.lolyworld.world%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_7_skins%22%3eCgkIrOSpp-oUEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_15_skins%22%3eCgkIrOSpp-oUEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_23_skins%22%3eCgkIrOSpp-oUEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_world_1%22%3eCgkIrOSpp-oUEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_world_2%22%3eCgkIrOSpp-oUEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_15_stars%22%3eCgkIrOSpp-oUEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_60_stars%22%3eCgkIrOSpp-oUEAIQBw%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+ios.ClientId=715731399212-te7pos006dk81s95bfbqc9mq7b2b57t0.apps.googleusercontent.com
+ios.ResourceData=%23define+CLIENT_ID+%40%22715731399212-te7pos006dk81s95bfbqc9mq7b2b57t0.apps.googleusercontent.com%22%0d%0a%23define+BUNDLE_ID+%40%22droidboy.lolyworld.lolyw%22%0d%0a%23define+ACH_7_SKINS+%40%22CgkIrOSpp-oUEAIQAQ%22%0d%0a%23define+ACH_15_SKINS+%40%22CgkIrOSpp-oUEAIQAg%22%0d%0a%23define+ACH_23_SKINS+%40%22CgkIrOSpp-oUEAIQAw%22%0d%0a%23define+ACH_WORLD_1+%40%22CgkIrOSpp-oUEAIQBA%22%0d%0a%23define+ACH_WORLD_2+%40%22CgkIrOSpp-oUEAIQBQ%22%0d%0a%23define+ACH_15_STARS+%40%22CgkIrOSpp-oUEAIQBg%22%0d%0a%23define+ACH_60_STARS+%40%22CgkIrOSpp-oUEAIQBw%22%0d%0a
+ios.BundleId=droidboy.lolyworld.lolyw
+ios.SetupDone=true
